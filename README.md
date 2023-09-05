@@ -10,7 +10,10 @@ Aplicacion que simula una partida de blackjack, en donde se debe optener 21 o me
 
 ## Development server
 
-Run `npm run dev` y dirigirse a `http://localhost:5173/`. los cambios en la aplicacion se realizan de forma automatica cuando se detecte algun cambio en los archivos.
+Run `npm install`  para generar las dependencias del proyecto. ejecutamonos posteriromente el comando `npm run dev` y dirigirse a `http://localhost:5173/` para ejecutar la aplicacion.
+
+## Nota
+los cambios en la aplicacion se realizan de forma automatica cuando se detecte algun cambio en los archivos.
 
 ## Build
 
