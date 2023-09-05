@@ -6,6 +6,7 @@ import {acumularPuntos, crearCarta, pedirCarta} from './index'
  * @param {Array<number>} puntosJugadores arreglo que contiene los puntos de todos los jugadores ejemplo: [12 , 0]
  * @param {Array<number>} puntos elemento html para mostrar los puntos del jugador
  * @param {*} cartasJugadores html que contiene los cartas sacadas por todos los jugadores
+ * @param {Array<number>} deck arreglo de cartas disponibles para ser utilizadas por la computadora
  */
 
 export const jugarComputadora = (puntosMinimos, puntosJugadores, puntos, cartasJugadores, deck) => {
