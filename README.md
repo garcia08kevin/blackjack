@@ -1,11 +1,10 @@
 # Blackjack
 
-Este proyecto fue desarrollado mediante vite.js.
+Proyecto generado en Vite.js perteneciente al curso de JavaScript Moderno impartido por el profesor Fernando Herrera `https://www.udemy.com/course/javascript-fernando-herrera/`.
 
 # Descripcion
 
-Proyecto perteneciente al curso de JavaScript Moderno impartido por el profesor Fernando Herrera `https://www.udemy.com/course/javascript-fernando-herrera/`.
-Aplicacion que simula una partida de blackjack, en donde se debe optener 21 o menos para ganar.
+Aplicacion que simula una partida de blackjack, en donde se debe optener 21 o menos al contrincante (en este caso la computadora) para ganar.
 
 ## Development server
 
