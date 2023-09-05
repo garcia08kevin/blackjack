@@ -8,8 +8,8 @@ Aplicacion que simula una partida de blackjack, en donde se debe optener 21 o me
 
 ## Development server
 
-Run `npm install`  para generar las dependencias del proyecto.
-Posteriromente ejecutar el comando `npm run dev` y dirigirse a `http://localhost:5173/` para observar la aplicacion desplegada en local.
+1. Run `npm install`  para generar las dependencias del proyecto.
+2. Ejecutar el comando `npm run dev` y dirigirse a `http://localhost:5173/` para observar la aplicacion desplegada en local.
 
 ## Nota
 
@@ -17,4 +17,5 @@ los cambios en la aplicacion se realizan de forma automatica cuando se detecte a
 
 ## Build
 
-Run `npm run build` para crear el build de produccion. el contenido sera generado en la carpeta `dist/`.
+1. Run `npm run build` para crear el build de produccion.
+2. El contenido sera generado en la carpeta `dist/`.
