@@ -18,4 +18,4 @@ los cambios en la aplicacion se realizan de forma automatica cuando se detecte a
 
 ## Build
 
-Run `npm run build` para generar el build de produccion. el contenido de sera creado en la carpeta `dist/`.
+Run `npm run build` para crear el build de produccion. el contenido sera generado en la carpeta `dist/`.
