@@ -1,4 +1,4 @@
-# MapasApp
+# Blackjack
 
 Este proyecto fue desarrollado mediante vite.js.
 
